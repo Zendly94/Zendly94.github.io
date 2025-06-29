@@ -11,9 +11,9 @@ Freelancers waste countless hours formatting invoices manually — but you don't
 
 ## 🚀 1. Invoice Generator by Indy
 
-- ✅ Completely free to use
-- ✍️ Auto-fills details like client name, project, rates
-- 🧾 Export in PDF instantly
+- ✅ Completely free to use  
+- ✍️ Auto-fills details like client name, project, rates  
+- 🧾 Export in PDF instantly  
 
 > [Try Indy’s Invoice Tool →](https://weareindy.com/tools/invoice-generator)
 
@@ -21,9 +21,9 @@ Freelancers waste countless hours formatting invoices manually — but you don't
 
 ## 💼 2. Zoho Invoice (with AI assist)
 
-- 💰 Free for small businesses with <1,000 invoices/year
-- 🤖 Smart fill features and tax automation
-- 🔗 Integrates with other Zoho apps
+- 💰 Free for small businesses with <1,000 invoices/year  
+- 🤖 Smart fill features and tax automation  
+- 🔗 Integrates with other Zoho apps  
 
 > [Explore Zoho Invoice →](https://www.zoho.com/invoice/)
 
